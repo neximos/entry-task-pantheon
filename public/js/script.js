@@ -140,5 +140,3 @@ heatIndexForm.addEventListener('submit', e => {
 })
 }
 
-
-

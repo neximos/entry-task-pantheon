@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Hello World</h1>
+      <h1 className="text-center p-4">Entry task - Pantheon</h1>
       <LondonWeather/>
       <Chart/>
       <HeatIndexCalculator/>
